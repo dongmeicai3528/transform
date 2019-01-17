@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TransformationData xmlns="http://tempuri.org/TransformationData.xsd">
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>1</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME>msa empty.xml</OUT_TEMPLATE_NAME>
+    <OUT_TEMPLATE_DESCRIPTION />
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA>&lt;?xml version="1.0"?&gt;
+&lt;xml&gt;
+  &lt;a&gt;
+  &lt;/a&gt;
+&lt;/xml&gt;</OUT_TEMPLATE_DATA>
+    <OUT_TEMPLATE_TYPE>XML</OUT_TEMPLATE_TYPE>
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>2</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME />
+    <OUT_TEMPLATE_DESCRIPTION />
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA />
+    <OUT_TEMPLATE_TYPE>SCHEMA</OUT_TEMPLATE_TYPE>
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>3</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME>msa empty.xml</OUT_TEMPLATE_NAME>
+    <OUT_TEMPLATE_DESCRIPTION />
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA>&lt;?xml version="1.0"?&gt;
+&lt;xml&gt;
+  &lt;a&gt;
+  &lt;/a&gt;
+&lt;/xml&gt;</OUT_TEMPLATE_DATA>
+    <OUT_TEMPLATE_TYPE>XML</OUT_TEMPLATE_TYPE>
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <OUT_TEMPLATE>
+    <OUT_TEMPLATE_ID>4</OUT_TEMPLATE_ID>
+    <OUT_TEMPLATE_NAME>ImiTransas.json</OUT_TEMPLATE_NAME>
+    <OUT_TEMPLATE_DESCRIPTION />
+    <OUT_TEMPLATE_FILE />
+    <OUT_TEMPLATE_DATA>{
+  "@odata.context":"http://localhost:52245/odata/$metadata#ImiTransas","value":[
+    {
+      "ID":1,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":null,"Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T09:00:41.0055287-04:00","DateLastModified":"2017-10-26T09:00:41.2399088-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":31,"TransaStatus":82,"Status":24
+    },{
+      "ID":2,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T09:02:01.6915158-04:00","DateLastModified":"2017-10-26T09:02:01.7540171-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":3,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T09:06:02.1724048-04:00","DateLastModified":"2017-10-26T09:06:02.2505275-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":4,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T10:31:38.0207184-04:00","DateLastModified":"2017-10-26T10:31:38.1237074-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":5,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T10:53:49.4938164-04:00","DateLastModified":"2017-10-26T10:53:49.7379701-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":6,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T10:56:26.2196995-04:00","DateLastModified":"2017-10-26T10:56:26.3196741-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":7,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T11:02:27.9660699-04:00","DateLastModified":"2017-10-26T11:02:28.1252767-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":8,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T12:21:27.5180032-04:00","DateLastModified":"2017-10-26T12:21:27.8030073-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":9,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T12:23:03.2133062-04:00","DateLastModified":"2017-10-26T12:23:03.3213043-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":10,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T12:33:34.176505-04:00","DateLastModified":"2017-10-26T12:33:34.3830798-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":11,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-10-26T12:34:56.6694642-04:00","DateLastModified":"2017-10-26T12:34:56.7794686-04:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":1002,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #0 THROW HARD EXCEPTION(ID:67) in Field: Field 1 at Line: (0) Msg: Command threw hard exception because expression evaluated true (AreEqual(1,1))   ***** WRF Error in Transform ***** Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-11-07T13:07:04.7848658-05:00","DateLastModified":"2017-11-07T13:07:05.050488-05:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":2002,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":null,"Userid":0,"DeletedFlag":null,"DateCreated":"2017-11-15T15:50:12.476655-05:00","DateLastModified":"2017-11-15T15:50:12.9720326-05:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":31,"TransaStatus":82,"Status":24
+    },{
+      "ID":2003,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":"Hard transformation exception was detected: Exception executing transformation.\nCommand: #12 STOP SELECTION AT POSITION(ID:8) in Field: GetResults at Line: (11) Msg: startIndex cannot be larger than length of string.\r\nParameter name: startIndex Transaction will be put into an error state.","Userid":0,"DeletedFlag":null,"DateCreated":"2017-11-15T15:51:43.5418873-05:00","DateLastModified":"2017-11-15T15:51:43.654923-05:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":29,"TransaStatus":80,"Status":24
+    },{
+      "ID":2004,"TransaGroupId":0,"TransaGroupSeq":1,"StatusDetail":null,"Userid":0,"DeletedFlag":null,"DateCreated":"2017-11-16T08:47:21.1968971-05:00","DateLastModified":"2017-11-16T08:47:21.6408556-05:00","CreatedUser":0,"IntfId":1,"TransaTypeId":1,"TransaStep":31,"TransaStatus":82,"Status":24
+    }
+  ]
+}</OUT_TEMPLATE_DATA>
+    <OUT_TEMPLATE_TYPE>FILE</OUT_TEMPLATE_TYPE>
+    <OUT_TEMPLATE_ORDER>0</OUT_TEMPLATE_ORDER>
+  </OUT_TEMPLATE>
+  <SCRIPT>
+    <SCRIPT_ID>1</SCRIPT_ID>
+    <SCRIPT_NAME>GetInputText</SCRIPT_NAME>
+    <SCRIPT_DESCRIPTION>Description of New Script</SCRIPT_DESCRIPTION>
+    <SCRIPT_LISTING>USL{2}returnValue = GetValue("TVARSOURCETEXT")
+USL{3}</SCRIPT_LISTING>
+    <SCRIPT_ORDER>1</SCRIPT_ORDER>
+    <SCRIPT_USE_SOURCE>true</SCRIPT_USE_SOURCE>
+    <SCRIPT_USE_DESTINATION>false</SCRIPT_USE_DESTINATION>
+  </SCRIPT>
+  <SCRIPT>
+    <SCRIPT_ID>2</SCRIPT_ID>
+    <SCRIPT_NAME>PreProc</SCRIPT_NAME>
+    <SCRIPT_DESCRIPTION>Description of New Script</SCRIPT_DESCRIPTION>
+    <SCRIPT_LISTING>USL{2}'returnValue = GetValue("TVARSOURCETEXT")
+USL{2}returnValue = "Modified input text via VB Script"
+USL{3}</SCRIPT_LISTING>
+    <SCRIPT_ORDER>2</SCRIPT_ORDER>
+    <SCRIPT_USE_SOURCE>true</SCRIPT_USE_SOURCE>
+    <SCRIPT_USE_DESTINATION>false</SCRIPT_USE_DESTINATION>
+  </SCRIPT>
+  <TRANSFORM>
+    <TRANSFORM_NAME>ScriptAccessInputText</TRANSFORM_NAME>
+    <TRANSFORM_DESCRIPTION>New transformation description</TRANSFORM_DESCRIPTION>
+    <TRANSFORM_TYPE>UTX</TRANSFORM_TYPE>
+    <TRANSFORM_COMPONENT_VERSION>2.0.1.1</TRANSFORM_COMPONENT_VERSION>
+    <TRANSFORM_ASSEMBLY_PATH />
+    <TRANSFORM_EOL>&lt;New Line&gt;</TRANSFORM_EOL>
+    <TRANSFORM_WORDSEPARATOR>&lt;Space&gt;</TRANSFORM_WORDSEPARATOR>
+    <TRANSFORM_XSLT1 />
+    <TRANSFORM_PREPROCESSINGSCRIPT />
+    <TRANSFORM_EOLFILEPROCESSING>OFF</TRANSFORM_EOLFILEPROCESSING>
+    <TRANSFORM_RUNAWAYCHECK>OFF</TRANSFORM_RUNAWAYCHECK>
+    <TRANSFORM_MAXCMDS>100000</TRANSFORM_MAXCMDS>
+  </TRANSFORM>
+  <MAP_FIELD>
+    <MAP_FIELD_ID>1</MAP_FIELD_ID>
+    <MAP_FIELD_NAME>Field 1</MAP_FIELD_NAME>
+    <MAP_FIELD_DESCRIPTION />
+    <MAP_FIELD_ORDER>1</MAP_FIELD_ORDER>
+    <MAP_FIELD_INPUT_PATH />
+    <MAP_FIELD_OUTPUT_PATH>xml/a</MAP_FIELD_OUTPUT_PATH>
+    <MAP_FIELD_XML_GROUP />
+    <MAP_FIELD_TAG />
+    <MAP_FIELD_INPUT_DISPLAY_PATH />
+    <MAP_FIELD_OUTPUT_DISPLAY_PATH />
+    <MAP_FIELD_VARIABLE_TYPE>Standard</MAP_FIELD_VARIABLE_TYPE>
+    <MAP_FIELD_VARIABLE_NAME />
+  </MAP_FIELD>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>1</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>1</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>x =  GetInputText()</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>false</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>2</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>SET VARIABLE</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>46</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>2</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>x =  PreProc()</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+  <RUN_COMMAND>
+    <RUN_COMMAND_ID>3</RUN_COMMAND_ID>
+    <RUN_COMMAND_NAME>INSERT SELECTION</RUN_COMMAND_NAME>
+    <RUN_COMMAND_DESCRIPTION />
+    <RUN_COMMAND_PARM1TYPE>0</RUN_COMMAND_PARM1TYPE>
+    <RUN_COMMAND_MAP_FIELD_ID>1</RUN_COMMAND_MAP_FIELD_ID>
+    <RUN_COMMAND_COMMAND_ID>31</RUN_COMMAND_COMMAND_ID>
+    <RUN_COMMAND_ORDER>3</RUN_COMMAND_ORDER>
+    <RUN_COMMAND_PARM1>x</RUN_COMMAND_PARM1>
+    <RUN_COMMAND_ENABLE>true</RUN_COMMAND_ENABLE>
+  </RUN_COMMAND>
+</TransformationData>
